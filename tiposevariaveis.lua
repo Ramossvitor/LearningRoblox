@@ -17,7 +17,7 @@ print(type(energy))
 print(energia == maisenergia)
 
 -- Nil
-nome = ""
+local nome = ""
 print(nome)
-nome = nil 
+local nome = nil 
 print(nome)

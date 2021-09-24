@@ -1,5 +1,5 @@
-vip = true
-money = 600
+local vip = true
+local money = 600
 if(vip == false and money >= 500) then
     print("Teletransportado")
 elseif(vip == true and money >= 100) then
